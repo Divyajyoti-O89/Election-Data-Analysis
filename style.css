@@ -1,0 +1,13 @@
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#FF9933, #FFFFFF, #138808);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0a23;
+}
